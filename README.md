@@ -1,2 +1,1 @@
-# dinogame.com
-Dino game
+git@github.com:Felix8859/dinogame.git
